@@ -1,2 +1,3 @@
 # clone-tabnews
-Projeto com Deschamps através do curso.dev 
+
+Projeto com Deschamps através do curso.dev
